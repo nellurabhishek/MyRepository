@@ -1,5 +1,5 @@
 
-class Exercise1
+class consonant
 {
     static boolean isVowel(char ch)
     {
