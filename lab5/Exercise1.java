@@ -11,7 +11,7 @@ System.out.println(str);
 
 }
 
-public class prg4 {
+public class Exercise1 {
 
 
      public static void main(String[] args) {
